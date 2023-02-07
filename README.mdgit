@@ -1,0 +1,1 @@
+"# PWM_25MHZ"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Snaiderbg/PWM_25MHZ.gitgit push -u origin main
